@@ -12,7 +12,7 @@ Uitleg:
 In deze project pagina vind je alle elementen van Voetbalshop.nl, 
 deze zijn gemakkelijk aan te passen en te gebruiken voor de site.
 
-in elke Class / Div (content) staat er een comment in het groen
+in elke Class / Div (content) staat er een comment in het groen,
 in die comment staat een instructie over hoe en wat je wilt aanpassen naar wens.
 
 Ziet er zo uit:
