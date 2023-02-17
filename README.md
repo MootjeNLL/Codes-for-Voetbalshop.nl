@@ -12,8 +12,10 @@ Uitleg:
 In deze project pagina vind je alle elementen van Voetbalshop.nl, 
 deze zijn gemakkelijk aan te passen en te gebruiken voor de site.
 
-in elke Class / Div staat er een comment ziet er zo uit : " <!--- ... --> " ,
+in elke Class / Div staat er een comment ziet er zo uit : ![image](https://user-images.githubusercontent.com/123725710/219601956-269deebc-9242-4356-ae9c-42ec258697d3.png)
+
 in die comment staat een instructie over hoe je iets wilt veranderen naar wens.
+
 
 
 
